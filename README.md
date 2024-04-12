@@ -8,8 +8,8 @@ Help an organization to improve employee performance and improve employee retent
 
 Project Learnings-
 
--Identified key factors to reduce attrition
--Improved the hiring process
--Improved employee experience
--Made workforce more productive
+1. Identified key factors to reduce attrition
+1. Improved the hiring process
+1. Improved employee experience
+1. Made workforce more productive
 -Gained employee trust
